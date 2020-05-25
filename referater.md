@@ -1,3 +1,5 @@
+[Forside](/) > **Referater**
+
 # Referater
 
 Her kan du finde referater fra bestyrelsesmøder, generalforsamling og andet relevant.
