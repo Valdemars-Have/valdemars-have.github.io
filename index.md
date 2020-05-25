@@ -10,4 +10,4 @@ Her på siden har vi samlet nyttige informationer omkring ejerforeningen Valdema
 * [Hvem er bestyrelsen](/bestyrelsen)
 
 
-Bestyrelsen kan kontaktes på mail@valdemars-have.dk
+Bestyrelsen kan kontaktes på [mail@valdemars-have.dk](mailto:mail@valdemars-have.dk)

@@ -2,7 +2,7 @@
 
 # Fejlmeding og Vicevært
 
-Vi har alle et ansvar for vores fællesarealer og have opdager man noget som er i stykker eller på anden måde er mangelfuldt bedes man kontakte bestyrelsen på mail@valdemars-have.dk.
+Vi har alle et ansvar for vores fællesarealer og have opdager man noget som er i stykker eller på anden måde er mangelfuldt bedes man kontakte bestyrelsen på [mail@valdemars-have.dk](mailto:mail@valdemars-have.dk).
 
 ## Vagtordning / Akutsituationer
 
