@@ -2,7 +2,7 @@
 
 # Referater
 
-Her kan du finde referater fra bestyrelsesmøder, generalforsamling og andet relevant.
+Her kan du finde referater fra bestyrelsesmøder, generalforsamling og andre relevante møder.
 
 ## Generalforsamlinger
 

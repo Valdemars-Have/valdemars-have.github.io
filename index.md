@@ -4,6 +4,10 @@ Her på siden har vi samlet nyttige informationer omkring ejerforeningen Valdema
 
 ## Navigation
 
+* [Fejlmelding](/vicevaert)
 * [Referater](/referater)
-* [Nyttig information](/info)
+* [Skift af filter i ventilation](/filter)
+* [Hvem er bestyrelsen](/bestyrelsen)
 
+
+Bestyrelsen kan kontaktes på mail@valdemars-have.dk
