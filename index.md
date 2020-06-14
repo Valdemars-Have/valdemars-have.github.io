@@ -5,9 +5,11 @@ Her på siden har vi samlet nyttige informationer omkring ejerforeningen Valdema
 ## Navigation
 
 * [Fejlmelding](/vicevaert)
-* [Referater](/referater)
+* [Storskrald](/storskrald)
 * [Skift af filter i ventilation](/filter)
+* [Rabataftale Hotel Faber](/hotel_faber)
 * [Hvem er bestyrelsen](/bestyrelsen)
+* [Referater](/referater)
 
 
 Bestyrelsen kan kontaktes på [mail@valdemars-have.dk](mailto:mail@valdemars-have.dk)
