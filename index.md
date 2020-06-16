@@ -4,6 +4,7 @@ Her på siden har vi samlet nyttige informationer omkring ejerforeningen Valdema
 
 ## Navigation
 
+* [Husorden](/husorden)
 * [Fejlmelding](/vicevaert)
 * [Storskrald](/storskrald)
 * [Skift af filter i ventilation](/filter)
