@@ -10,6 +10,7 @@ Her kan du finde referater fra bestyrelsesmøder, generalforsamling og andre rel
 
 ## Bestyrelsesmøder
 
+* [13/8/2020](bem-referater/13-08-2020-Referat_bestyrelsesmøde_EF_VH.pdf.pdf)
 * [18/5/2020](/bem-referater/18-05-2020-Referat_bestyrelsesmøde_EF_VH.pdf)
 * [3/2/2020](/bem-referater/03-02-2020-Referat_bestyrelsesmøde_EF_VH.pdf)
 * [16/12/2019](/bem-referater/16-12-2019-Referat_bestyrelsesmøde_EF_VH.pdf)
