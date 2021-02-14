@@ -10,6 +10,7 @@ Her på siden har vi samlet nyttige informationer omkring ejerforeningen Valdema
 * [Skift af filter i ventilation](/filter)
 * [Rabataftale Hotel Faber](/hotel_faber)
 * [Hvem er bestyrelsen](/bestyrelsen)
+* [Nyhedsbeve](/nyhedsbreve)
 * [Referater](/referater)
 
 
