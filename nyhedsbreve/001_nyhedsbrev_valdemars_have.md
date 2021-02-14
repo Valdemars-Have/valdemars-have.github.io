@@ -1,4 +1,4 @@
-[Forside](/) > [Nyhedsbreve](/nyhedsbreve) > **Nyhedsbreve nummer 1**
+[Forside](/) > [Nyhedsbreve](/nyhedsbreve) > **Nyhedsbrev nummer 1**
 
 # Nyhedsbrev #1 Valdemars Have
 
