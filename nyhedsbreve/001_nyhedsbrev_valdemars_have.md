@@ -1,10 +1,6 @@
+[Forside](/) > [Nyhedsbreve](/nyhedsbreve) > **Nyhedsbreve nummer 1**
+
 # Nyhedsbrev #1 Valdemars Have
-
-Created By: Rasmus Frey
-Last Edited: Feb 14, 2021 1:45 PM
-Tags: VH Nyhedsbrev, Valdemars Have
-
-## Nyhedsbrev #1 E/F Valdemars Have
 
 Kære nabo
 
