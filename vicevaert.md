@@ -1,8 +1,10 @@
-[Forside](/) > **Fejlmeding og Vicevært**
+[Forside](/) > **Fejlmeding**
 
-# Fejlmeding og Vicevært
+# Fejlmeding
 
 Vi har alle et ansvar for vores fællesarealer og have opdager man noget som er i stykker eller på anden måde er mangelfuldt bedes man kontakte bestyrelsen på [mail@valdemars-have.dk](mailto:mail@valdemars-have.dk).
+
+**BEMÆRK:** Foreningen er kun ansvarlig for fællesarealer.
 
 ## Vagtordning / Akutsituationer
 
@@ -12,4 +14,4 @@ Ejerforeningen har en vagtordning via foreningens administrationsselskab CEJ. Ve
 
 CEJ’s telefonnummer er 8610 4111
 
-*Opgave: HAr vi et par eksempler på akutsituationer?*
+Akutsituationer er ting som under ingen omstændigheder kan vente til dagen efter.
