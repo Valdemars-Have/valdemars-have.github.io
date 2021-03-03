@@ -1,10 +1,10 @@
-[Forside](/) > **Markiser og læglas**
+[Forside](/) > **Markiser og læglas/læsejl**
 
-# Markiser og læglas
+# Markiser og læglas/læsejl
 
-Bestyrelsen forestod i 2020 et fælles indkøb af markiser og læglas. Fremadrettet skal de enkelte beboere selv rette henvendelse til firmaerne:
+Bestyrelsen forestod i 2020 et fælles indkøb af markiser og læglas/læsejl. Fremadrettet skal de enkelte beboere selv rette henvendelse til firmaerne:
 
-I forhold til markiser er det i følge husordenen obligatorisk at opsætte Alux SUN 300 i altanens fulde bredde og i hvid. (Se i øvrigt husordenen)
+I forhold til markiser er det i følge husordenen obligatorisk at opsætte Alux SUN 300 i altanens fulde bredde og i hvid. Læsejl til rækværk skal også være i hvid og bestilles ved samme firma. (Se i øvrigt husordenen)
 
 Kontakt:
 
