@@ -15,3 +15,11 @@ Ejerforeningen har en vagtordning via foreningens administrationsselskab CEJ. Ve
 CEJ’s telefonnummer er 8610 4111
 
 Akutsituationer er ting som under ingen omstændigheder kan vente til dagen efter.
+
+## Elevator
+
+Foreningen har serviceaftale med OTIS. ved driftsstop kan OTIS kontaktes på 4488 8999 hvor kontraktnummer 727818 evt. skal oplyses.
+
+**BEMÆRK** Det er kun til brug i AKUTTE situationer da foreningen belastes økonomisk.
+
+Typisk vil elevatorerne nulstille sig selv efter lidt tid og dermed fungere igen. Så hav venligst lidt tålmodighed inden man tilkalder hjælp.
