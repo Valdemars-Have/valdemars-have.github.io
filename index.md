@@ -2,8 +2,9 @@
 
 Her på siden har vi samlet nyttige informationer omkring ejerforeningen Valdemars Have.
 
-## Navigation
+Ejerforeningen omfatter boliger i nummer 5,7,9 og 26,28,30.
 
+## Navigation
 
 
 * [Husorden og Vedtægter](/husorden)
@@ -15,6 +16,7 @@ Her på siden har vi samlet nyttige informationer omkring ejerforeningen Valdema
 * [Fejlmelding](/vicevaert)
 * [Storskrald](/storskrald)
 
+* [Gæsteparkering](/parkering)
 * [Markiser og læglas](/markiser)
 * [Skift af filter i ventilation](/filter)
 * [Rabataftale Hotel Faber](/hotel_faber) 
