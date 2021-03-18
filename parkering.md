@@ -2,7 +2,7 @@
 
 # Gæsteparkering
 
-Ejerforeningen Valdemars Have råder over 3 parkeringspladser på det lille grusstykke ved nummmer 9 ud til lønvejen.
+Grundejerforeningen Valdemars Have råder over 3 parkeringspladser på det lille grusstykke ved nummmer 9 ud til lønvejen.
 
 ![alt text][parkering]
 
