@@ -2,6 +2,8 @@
 
 # Nyhedsbrev #1 Valdemars Have
 
+Februar 2021
+
 Kære nabo
 
 Du har netop taget hul på det første nyhedsbrev fra bestyrelsen i Valdemars Have. Fremover vil vi sende et nyhedsbrev ca. en gang i kvartalet eller når det er relevant. I nyhedsbrevet kommer vi omkring de emner vi har drøftet og arbejdet med siden sidst.
