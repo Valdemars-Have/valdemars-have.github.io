@@ -22,4 +22,7 @@ Ejerforeningen omfatter boliger i nummer 5,7,9 og 26,28,30.
 * [Rabataftale Hotel Faber](/hotel_faber) 
 
 
-Bestyrelsen kan kontaktes på [mail@valdemars-have.dk](mailto:mail@valdemars-have.dk)
+## Kontakt
+
+* Vores ejendomsadministration CEJ kan kontaktes på: Rie Hermansen, [rhe@cej.dk](mailto:rhe@cej.dk)
+* Bestyrelsen kan kontaktes på [mail@valdemars-have.dk](mailto:mail@valdemars-have.dk)
