@@ -1,6 +1,6 @@
-# Nyhedsbrev #2 Valdemars Have
+# Nyhedsbrev #3 Valdemars Have
 
-August 2021
+Januar 2022
 
 ## Kære nabo
 
