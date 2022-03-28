@@ -32,16 +32,16 @@ Der må ikke opsættes individuelle paraboler eller antenner på ejendommens fac
 
 Dog er det tilladt at opsætte følgende på egen altan:
 * markiser i altanens fulde længde med følgende specifikationer: 
- * Fabrikat: Alux Sun 3000, el-drevet markise med håndsender og rysteføler for vind (Type: Lewens Toscana)
- * Længde: altanens fulde længde plus 10 cm i hver side (dog ikke hvis altan støder op til mur)
- * Fremspring: 250 cm 
- * Kassette: hvid RAL 9010
- * Dug: gennemfarvet akryl med teflonbehandling
- * Dugfarve: lys råhvid med nist nr 14642 Perle (forhandles af Alux)
+  * Fabrikat: Alux Sun 3000, el-drevet markise med håndsender og rysteføler for vind (Type: Lewens Toscana)
+  * Længde: altanens fulde længde plus 10 cm i hver side (dog ikke hvis altan støder op til mur)
+  * Fremspring: 250 cm 
+  * Kassette: hvid RAL 9010
+  * Dug: gennemfarvet akryl med teflonbehandling
+  * Dugfarve: lys råhvid med nist nr 14642 Perle (forhandles af Alux)
 * læsejl på gelænder
- * Længde: Leveres i længder efter bestilling med sejlringe med 30 cm´s afstand til fastgørelse
- * Dug: Gennemfarvet akryl med teflonbehandling
- * Dugfarve: Hvid nr 0001 Ecru (forhandles af Alux)
+  * Længde: Leveres i længder efter bestilling med sejlringe med 30 cm´s afstand til fastgørelse
+  * Dug: Gennemfarvet akryl med teflonbehandling
+  * Dugfarve: Hvid nr 0001 Ecru (forhandles af Alux)
 * læværn i klar glas på indvendig side af rækværk
 * mindre effekter på murværk så som vægespalier, terrassevarmere, lamper og lign.
 
