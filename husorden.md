@@ -4,7 +4,7 @@
 
 Vi ønsker at Valdemars Have er et rart sted at bo og henstiller til at foreningens husorden efterleves.
 
-[Husorden for ejerforeningen Valdemars Have](/filer/Husorden_Valdemars_Have.pdf)
+[Husorden for ejerforeningen Valdemars Have](/husorden_vh)
 
 # Vedtægter for ejerforeningen Valdemars Have
 
