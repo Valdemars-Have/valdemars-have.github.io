@@ -2,6 +2,8 @@
 
 # Husorden for Ejerforeningen Valdemars Have
 
+> Opdateret oktober 2021
+
 I det følgende beskrives gældende husorden for Ejerforeningen Valdemars Have. Husordenen gælder for såvel ejere, lejere og gæster og er at opfatte som et tillæg til ejerforeningens vedtægter.
 
 ## STØJ: RADIO, MUSIKANLÆG OG VÆRKTØJ MV.
