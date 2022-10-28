@@ -4,6 +4,8 @@
 
 Vi har alle et ansvar for vores fællesarealer og have opdager man noget som er i stykker eller på anden måde er mangelfuldt bedes man kontakte bestyrelsen på [mail@valdemars-have.dk](mailto:mail@valdemars-have.dk).
 
+Hvis du fejlmelder noget som har en funktion så sørg venligst for at beskrive fejlen så det er muligt for en anden part at gentage handlingen og fremprovokere fejlen.
+
 **BEMÆRK:** Foreningen er kun ansvarlig for fællesarealer.
 
 ## Vagtordning / Akutsituationer
