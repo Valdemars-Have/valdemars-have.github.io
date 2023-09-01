@@ -16,6 +16,8 @@ Ejerforeningen omfatter boliger i nummer 5,7,9 og 26,28,30.
 * [Fejlmelding](/vicevaert)
 * [Storskrald](/storskrald)
 
+* [Blødgøring af vand](/blodgoring)
+
 * [Gæsteparkering](/parkering)
 * [Markiser og læglas](/markiser)
 * [Skift af filter i ventilation](/filter)
