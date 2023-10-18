@@ -19,6 +19,7 @@ Ejerforeningen omfatter boliger i nummer 5,7,9 og 26,28,30.
 * [Blødgøring af vand](/blodgoring)
 
 * [Gæsteparkering](/parkering)
+* [Lader til el-bil](/elbil)
 * [Markiser og læglas](/markiser)
 * [Skift af filter i ventilation](/filter)
 * [Rabataftale Hotel Faber](/hotel_faber) 
