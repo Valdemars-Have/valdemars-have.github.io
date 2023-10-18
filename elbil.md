@@ -2,11 +2,11 @@
 
 # Lader til elbil
 
-Har du råderet til parkeringplads i p-kælder og ønsker at få opsat en lader til elbil skal du være opmærksom på følgende:
+Hvis du har råderet til en parkeringsplads i p-kælderen og ønsker at få opsat en lader til elbil, skal du være opmærksom på følgende:
 
-- Har du p-plads på et andet niveau end din opgang og el-tavle kan det umiddelbart ikke lade sig gøre grundet for langt kabeltræk.
-- Lader skal opsættes og monteres af autoriseret el-installatør.
-- Gennembrydes brandsikring når der trækkes kabler skal denne forsegles igen - Vigtigt at el-installatør og du sikre dette.
-- Nøglebrik for adgang til rum med el-tavler skal lånes af bestyrelsen - giv derfor besked om dato for installation i god tid.
+* Hvis din parkeringsplads er på en anden etage end din lejlighed og el-tavle, kan det være umuligt at installere en lader på grund af for langt kabeltræk.
+* Ladestanderen skal opsættes og monteres af en autoriseret el-installatør.
+* Når kabler trækkes og brandsikringen brydes, skal den forsegles igen. Det er vigtigt, at el-installatøren og du selv sørger for dette.
+* For at få adgang til rummet med el-tavlerne skal du låne en nøglebrik af bestyrelsen. Giv derfor besked om installationsdatoen i god tid.
 
-Et lille opmærksomhedspunkt omkring brugen af din lader: I det tilfælde alle tre lejligheder på samme etage har lader så øges risikoen for at smeltesikring (35A) springer og alle tre lejligheder mister alt strøm indtil en ny sikring er monteret af elektriker. Vi har et enkelt eksempel på dette og har derved erfaret at denne sikring deles på etageniveau.
+Et vigtigt punkt at være opmærksom på ved brugen af din ladestander: Hvis alle tre lejligheder på samme etage har en ladestander, øges risikoen for, at smeltesikringen (35A) springer, og alle tre lejligheder mister strømmen, indtil en ny sikring monteres af en elektriker. Vi har et enkelt eksempel på dette og har derfor erfaret, at denne sikring deles på etageniveau.
