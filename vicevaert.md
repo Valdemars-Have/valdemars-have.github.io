@@ -22,6 +22,6 @@ Akutsituationer er ting som under ingen omstændigheder kan vente til dagen efte
 
 Foreningen har serviceaftale med OTIS. ved driftsstop kan OTIS kontaktes på 4488 8999 hvor kontraktnummer 727818 evt. skal oplyses.
 
-**BEMÆRK** Det er kun til brug i AKUTTE situationer da foreningen belastes økonomisk.
+**BEMÆRK** Det er kun til brug i AKUTTE situationer da foreningen belastes økonomisk. Et udkald efter kl. 15.00 samt i weekend koster 4.256,- kroner ex. moms.
 
-Typisk vil elevatorerne nulstille sig selv efter lidt tid og dermed fungere igen. Så hav venligst lidt tålmodighed inden man tilkalder hjælp.
+Typisk vil elevatorerne nulstille sig selv efter lidt tid og dermed fungere igen. Så hav venligst lidt tålmodighed inden man tilkalder hjælp. En kendt fejl er også at dørsensor kan være støvet og derfor trænger til at blive tørret efter med en klud, afprøv venligt dette før der tilkaldes service.
