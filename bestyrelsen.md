@@ -17,5 +17,5 @@ Bestyrelsen kan samlet kontaktes på: [mail@valdemars-have.dk](mailto:mail@valde
 [morten]: /billeder/morten.jpg "Morten Kristensen"
 [niels]: /billeder/niels.jpg "Niels Mogensen"
 [kaspar]: /billeder/kaspar.jpg "Kaspar Rochholz"
-[poulerik]: /billeder/poulerik.jpg "Poul Erik Bisp Nielsen"
+[poulerik]: /billeder/poulerik.jpeg "Poul Erik Bisp Nielsen"
 [fotograf]: /billeder/fotograf.jpg "Fotografen er på vej"
