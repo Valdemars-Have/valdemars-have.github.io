@@ -15,10 +15,4 @@ Benny Thomsen
 
 Leverandør af læglas er ikke obligatorisk; men det skal opsættes uden mekanisk påvirkning af noget på altanen. 
 
-Vi har desværre ikke længere aftaler på dette område.
-// Vi havde sidste år aftale med firmaet:
-
-// **PM-glas**  
-// Peter Dahl  
-// [peter@pmglas.dk](mailto:peter@pmglas.dk)  
-// 20290171
+Vi har desværre ikke længere firma-aftaler på dette område.
