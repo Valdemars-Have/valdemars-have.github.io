@@ -16,9 +16,9 @@ Hvordan checker man om der er fejl på sin varmeveksler?
   
 ![alt text][stophane]
 
-* Åben for det varme vand i badeværrelse eller køkken.
+* Åben helt for det varme vand i badeværrelse eller køkken.
 * Vandet vil løbe kortvarigt, men skal aftage og stoppe helt i løbet af 1-2 min.
-* Hvis vandet forsætter evt. i en tynd stråle eller drypper kraftigt så er fer fejl på varmeveksleren.
+* Hvis vandet forsætter - evt. i en tynd stråle eller drypper kraftigt så er der fejl på varmeveksleren.
 
 * Tilkald en VVS'er til at udsikfte din varmeveksler.
 
