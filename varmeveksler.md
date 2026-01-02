@@ -3,7 +3,9 @@
 # Varmeveksler
 
 Der har været flere varmevekslere i lejlighederne, der gennem tiden er gået i stykker. 
-Varmeveksleren er den enhed, der sidder i teknikskabet og sørger for det varme vand i hver af vores lejligheder. Når den går i stykker, flyder der drikkevand over i fjernvarmevandet. 
+Varmeveksleren er den enhed, der sidder i teknikskabet og sørger for det varme vand i hver af vores lejligheder. 
+![alt text][vandvarme]
+Når den går i stykker, flyder der drikkevand over i fjernvarmevandet. 
 Det kan betyde en meget stor regning for den enkelte lejlighed, da det svarer til, at man tænder for alt vand i lejligheden og lader det løbe konstant.
 
 Hvordan checker man om der er fejl på sin varmeveksler?
@@ -20,3 +22,4 @@ PS. Varmeveksler i de fleste lejligheder (forbehold tages):
 Wavin type WH30-40M-3/4
 
 [stophane]: /billeder/stophane.jpg "Stophane"
+[vandvarme]: /billeder/vandvarme.jpg "Vand&Varme"
