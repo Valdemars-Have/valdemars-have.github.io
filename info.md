@@ -2,12 +2,12 @@
 
 # Information
 
-07/11/2026<br>
+07/11/2026 <br>
 Hermed en lille reminder på skrivelsen fra CEJ ang. defekte varmevekslere. Vi mangler stadig en del svar - husk svarfrist på mandag.<br>
 Det er gået op for os at brevet fra CEJ er sendt ud til alle i VH, men der står i brevet at fejlen ligger i #5-9. Sikkert derfor den lave svarprocent i #26-30. <br>
 Jeg beklager denne forvirring, men vil opfordre til at alle gennemfører testen og indmelde svar som beskrevet - det kunne jo være at vi finder flere fejl!
 <hr>
-05/11-2026<br>
+05/11-2026 <br>
 Lys Sensor i nummer 7 1. sal er ordnet
 <hr>
 04/11-2026<br>
